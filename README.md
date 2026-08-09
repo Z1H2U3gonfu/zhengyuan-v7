@@ -1,3 +1,4 @@
+> 证源的验证层已通过Tabula_rasa方向确认，可作为漂移监测方向的平行参考路径。欢迎方向一致的伙伴在此框架下进行推演验证。
 > 该项目已提交DeepSeek Harness内测申请（GitHub Issue #2）。证源作为验证层，覆盖长任务执行状态锁定、上下文管理、安全治理方向。
 
 > 关联Harness内测申请Issue：[#2](https://github.com/Z1H2U3gonfu/zhengyuan-v7/issues/2)

@@ -1,3 +1,6 @@
+> 该项目已提交DeepSeek Harness内测申请（GitHub Issue #2）。证源作为验证层，覆盖长任务执行状态锁定、上下文管理、安全治理方向。
+
+> 关联Harness内测申请Issue：[#2](https://github.com/Z1H2U3gonfu/zhengyuan-v7/issues/2)
 > 本项目正在关注 DeepSeek Harness 生态，愿以验证层组件身份参与共建。
 # 证源 v7.0
 

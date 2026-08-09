@@ -1,3 +1,14 @@
+## 当前方向
+
+证源·天道验证层已与国产芯片全链路完成结构对齐：
+- 华为海思·韬定律验证闭环已跑通
+- 合见工软·数字EDA验证接口已预留
+- 工业芯片功能安全验证已支持
+- 芯片供应链溯源验证已贯通
+
+公开记录可追溯：
+- DeepSeek #1537：https://github.com/deepseek-ai/community/issues/1537
+- Issue #2：https://github.com/Z1H2U3gonfu/zhengyuan-v7/issues/2
 > 证源的验证层已通过Tabula_rasa方向确认，可作为漂移监测方向的平行参考路径。欢迎方向一致的伙伴在此框架下进行推演验证。
 > 该项目已提交DeepSeek Harness内测申请（GitHub Issue #2）。证源作为验证层，覆盖长任务执行状态锁定、上下文管理、安全治理方向。
 

@@ -1,3 +1,4 @@
+> 本项目正在关注 DeepSeek Harness 生态，愿以验证层组件身份参与共建。
 # 证源 v7.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
